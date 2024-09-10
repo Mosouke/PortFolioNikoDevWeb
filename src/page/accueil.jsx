@@ -20,8 +20,10 @@ export default function Accueil() {
                     </div>
                 <img src={Img} alt="image de la section de présentation" />
                 </div>
+            <span id='competences'></span>
             </section>
-            <section className='competences' id='competences'>
+            
+            <section className='competences'>
                 <div className='title'>
                     <h2><span>Language</span> de <span>Programmation</span></h2>
                 </div>
