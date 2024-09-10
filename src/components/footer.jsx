@@ -17,7 +17,7 @@ export default function Footer() {
                         <h3>LinkedIn</h3>
                         <i className="fa-brands fa-linkedin"></i>
                     </Link>
-                    <Link className="colorbtn3" to="#">
+                    <Link className="colorbtn3" to="https://www.facebook.com/">
                         <h3>FaceBook</h3>
                         <i className="fa-brands fa-facebook"></i>
                     </Link>
