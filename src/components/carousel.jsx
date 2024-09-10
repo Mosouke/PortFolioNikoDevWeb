@@ -78,7 +78,8 @@ export default function Carousel() {
     return (
         <>
             <div className='title'>
-                <h2><span>Projet réaliser </span>en <span>Formation</span></h2>
+            <h2><span>Projets réalisés </span>en <span>Formation</span></h2>
+
             </div>
             <div 
                 className="carouselcard container1920" 
