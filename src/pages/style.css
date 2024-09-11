@@ -113,6 +113,7 @@ header {
     background-color: var(--primary-color);
     z-index: 100;
     margin: auto;
+    top: 0px;
 }
 
 header div {
@@ -501,6 +502,25 @@ main .citation #citation h2 {
     font-weight: 900;
     padding: 50px 0;
     color: var(--color-text);
+}
+
+/* page projet */
+
+main.projet  {
+    margin:  100px auto;
+}
+
+main.projet div {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: auto;
+    
+}
+
+main .projet .title h1 {
+    font-size: 38px;
+    margin: auto;
 }
 
 @media screen and (max-width: 1024px) {

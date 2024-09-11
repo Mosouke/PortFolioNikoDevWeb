@@ -32,19 +32,21 @@ export default function Header() {
     }, []);
 
     return (
-        <div className="container1440">
-            <RouterLink to="/" onClick={closeMenu}><img src={logo} alt="logo du site Niko Dev Web" /></RouterLink>
+        <header>
+            <div className="container1440">
+                <RouterLink to="/" onClick={closeMenu}><img src={logo} alt="logo du site Niko Dev Web" /></RouterLink>
 
-            <nav className={menuActive ? 'active' : ''}>
-                <ul>
-                    <li><RouterLink to="/" onClick={closeMenu}>Accueil</RouterLink></li>
-                    <li><ScrollLink to="competences" smooth={smooth} duration={duration} onClick={closeMenu}>Compétences</ScrollLink></li>
-                    <li><ScrollLink to="projet" smooth={smooth} duration={duration} onClick={closeMenu}>Projet</ScrollLink></li>
-                    <li><ScrollLink to="footer" smooth={smooth} duration={duration} onClick={closeMenu}>Contact</ScrollLink></li>
-                </ul>
-            </nav>
-            
-            <i className="fa-solid fa-bars burger" onClick={toggleMenu}></i>
-        </div> 
+                <nav className={menuActive ? 'active' : ''}>
+                    <ul>
+                        <li><RouterLink to="/" onClick={closeMenu}>Accueil</RouterLink></li>
+                        <li><ScrollLink to="competences" smooth={smooth} duration={duration} onClick={closeMenu}>Compétences</ScrollLink></li>
+                        <li><ScrollLink to="projet" smooth={smooth} duration={duration} onClick={closeMenu}>Projet</ScrollLink></li>
+                        <li><ScrollLink to="footer" smooth={smooth} duration={duration} onClick={closeMenu}>Contact</ScrollLink></li>
+                    </ul>
+                </nav>
+                
+                <i className="fa-solid fa-bars burger" onClick={toggleMenu}></i>
+            </div> 
+        </header>
     );
 }

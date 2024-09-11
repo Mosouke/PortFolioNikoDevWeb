@@ -1,0 +1,42 @@
+[
+    {
+        "iconClass": "fa-brands fa-react", 
+        "name": "REACT" 
+    },
+    {
+        "iconClass": "fa-brands fa-html5",
+        "name": "HTML"
+    },
+    {
+        "iconClass": "fa-brands fa-css3-alt",
+        "name": "CSS"
+    },
+    { 
+        "iconClass": "fa-brands fa-js",
+        "name": "JAVASCRIPT"
+    },
+    {
+        "iconClass": "fa-brands fa-php",
+        "name": "PHP"
+    },
+    {
+        "iconClass": "fa-solid fa-database",
+        "name": "MySQL"
+    },
+    {
+        "iconClass": "fa-brands fa-sass",
+        "name": "SASS"
+    },
+    {
+        "iconClass": "fa-brands fa-figma",
+        "name": "FIGMA"
+    },
+    {
+        "iconClass": "fa-brands fa-node-js",
+        "name": "NodeJS"
+    },
+    {
+        "iconClass": "fa-brands fa-python",
+        "name": "PYTHON"
+    }
+]

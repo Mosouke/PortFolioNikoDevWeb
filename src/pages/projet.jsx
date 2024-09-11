@@ -5,12 +5,17 @@ import './style.css'
 export default function Projet() {
   return (
     <>
-        <header>
-            <Header />
-        </header>
-        <footer>
-            <Footer />  
-        </footer>
+      <header>
+          <Header />
+      </header>
+      <main className='projet container1440'>
+          <div className="title">
+            <h1>Projets</h1>
+          </div>
+      </main>
+      <footer>
+          <Footer />  
+      </footer>
     </>
   );
 }
