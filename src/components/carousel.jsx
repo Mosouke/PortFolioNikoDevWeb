@@ -8,7 +8,6 @@ import imageOraculus from '../images/image_carousel/projet_oraculus.webp';
 import imageHomeKey from '../images/image_carousel/projetHomeKey.webp';
 import imageRCGraphics from '../images/image_carousel/projetRCGraphics.webp';
 import imageTicTacToe from '../images/image_carousel/tic-tac-toe-projet.webp';
-import { Link } from 'react-router-dom';
 
 export default function Carousel() {
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -104,7 +103,6 @@ export default function Carousel() {
                     </div>
                 </div>
             </div>
-            <Link to="#">Détails de tout les projets</Link >
         </>
     );
 }

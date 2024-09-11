@@ -368,8 +368,7 @@ main .projet .carouselcard .card  {
     border: 1px solid var(--color-bg-body);
     border-radius: 10px;
     background-color: var(--secondary-color);
-    width: 650px;
-    height: 540px;
+    width: 100%;
     border-radius: 10px;
     margin: auto;
     color : var(--color-bg-body);
@@ -379,8 +378,7 @@ main .projet .carouselcard .card  {
 }
 
 main .projet .carouselcard .card img {
-    width: 650px;
-    height: 400px;
+    width: 100%;
     border-radius: 10px;
     border-bottom: 1px solid var(--color-bg-body);
     object-fit: cover;
@@ -410,6 +408,7 @@ main .projet .carouselcard .card .tech {
 main .projet .carouselcard .container {
     position: relative;
     padding: 50px;
+    max-width: 650px;
 }
 
 main .projet .carouselcard .arrow_left {
@@ -636,5 +635,23 @@ main .citation #citation h2 {
 
     main #presentation p {
         font-size: 14px !important;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    main .competences .competenceL {
+        grid-template-columns: 1fr;
+        width: 90%;
+    }
+
+    main .competences {
+        padding: 0 10px !important;
+        margin: 50px 10px !important;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    main .citation #citation i.fa-quote-right {
+        top: 180px;
     }
 }

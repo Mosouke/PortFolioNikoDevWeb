@@ -1,8 +1,9 @@
 import Footer from '../components/footer.jsx'
 import Header from '../components/header.jsx'
 import Carousel from '../components/carousel.jsx'
-import './accueil.css'
+import './style.css'
 import Img from '../images/image-section-1_num_2.webp'
+import { Link } from 'react-router-dom'
 
 export default function Accueil() {
   return (
@@ -72,6 +73,7 @@ export default function Accueil() {
             </section>
             <section className='projet'>
                 <Carousel />
+                <Link to="/projet">Détails de tout les projets</Link >
             </section>
             <section className='citation'>
                 <div id='citation'>
