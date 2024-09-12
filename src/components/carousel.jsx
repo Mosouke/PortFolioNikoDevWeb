@@ -27,7 +27,7 @@ export default function Carousel({ carouselData }) {
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
         };
-    }, [carouselData]); // Le tableau de dépendances inclut carouselData
+    }, [carouselData]); 
 
     if (carouselData.length === 0) {
         return <p>Loading carousel...</p>;
@@ -39,9 +39,9 @@ export default function Carousel({ carouselData }) {
         <div
             className="carouselcard container1920"
             style={{
-                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(${currentImage})`,
+                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8)), url(${currentImage})`,
                 backgroundSize: 'cover',
-                backgroundPosition: 'center',
+                backgroundPosition: 'center', 
             }}
         >
             <div className='container'>

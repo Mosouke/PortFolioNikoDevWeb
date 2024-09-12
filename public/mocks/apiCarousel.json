@@ -49,7 +49,7 @@
         },
         {
             "id": 6,
-            "img": "../image_carousel/tic-tac-toe-projet.webp",
+            "img": "../image_carousel/Tic-Tac-Toe.webp",
             "alt": " image du projet tic-tac-toe pour coder diferents modes",
             "title": "Tic-Tac-Toe",
             "description": "Création d'un jeu de Tic-Tac-Toe en version PvP, PvIA mode facile et PvIA mode hardcore",
