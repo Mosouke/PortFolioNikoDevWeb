@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    
+    font-family: var(--font-primary);
+}
+
+:root {
+    /* color */
+    --primary-color:#10E956;
+    --secondary-color:#ffffff;
+    --color-bg-body: #000000;
+    --color-text: #10BA46;
+    --color-bg-title: #12141D;
+
+    /* font */
+    --font-primary: 'Orbitron';
+    --font-secondary: 'Lora';
+}
+
+.container1440 {
+    max-width: 1440px;
+    margin: auto;
+}
+
+div.error404 div a {
+    color: var(--color-text);
+    font-family: var(--font-primary);
+    border: 1px solid var(--color-text);
+    border-radius: 5px;
+    padding: 5px;
+    
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+        color: var(--color-bg-body);
+        background-color: var(--color-text);
+        transition: all 0.3s ease-in-out;
+    }
+}
+
+div.error404 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 100px auto;
+    padding: 10px;
+    gap: 20px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+div.error404 h1 {
+    font-size: 38px;
+    color: var(--color-text);
+    font-weight: 900;
+    padding: 10px 20px;
+    border: 1px solid var(--color-text);
+    border-radius: 5px;
+    background-color: var(--color-bg-title);
+}
+
+div.error404 img {
+    width: 70%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+
+    div.error404 h1 {
+        font-size: 28px !important;
+    }
+
+    
+}
