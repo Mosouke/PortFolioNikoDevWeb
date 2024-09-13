@@ -11,21 +11,53 @@ Currently, two official plugins are available:
 
 create pages for my port folio
 * accueil.jsx
-* accueil.css
+* style.css
+* styleError.css
+* projet.jsx
+* errorpage404.jsx
 
 create components for my port folio
 * carousel.jsx
 * footer.jsx
 * header.jsx
+* skills.jsx
+* article_projet.jsx
 
-create images for my port folio
-* image-section-1_num_2.webp
-* image_carousel/image-section-projet_Geniarthub.webp
-* image_carousel/projetIntegrationPortFolio.webp
-* image_carousel/pokédexe_carousel.webp
-* image_carousel/projet_oraculus.webp
-* image_carousel/projetHomeKey.webp
-* image_carousel/projetRCGraphics.webp
-* image_carousel/tic-tac-toe-projet.webp    
-* bg_img.webp
+create files for my port folio
+* public
+    * image_carousel
+        * image-section-projet_Geniarthub.webp
+        * image_carousel/projetIntegrationPortFolio.webp
+        * pokédexe_projetl.webp
+        * projet_oraculus.webp
+        * projetHomeKey.webp
+        * projetRCGraphics.webp
+        * tic-tac-toe-projet.webp    
+    * image_projet
+        * integration_html-css_AKOPretaPorter.webp
+        * integration_html-css_site_Fylo.webp
+        * integration_html-css_site_vividly.webp
+        * integration_html-css_NomadeMaquillage.webp
+        * integration_html-css_digital.webp
+        * integration_html-css_deliceSucres.webp
+        * image-projet_Geniarthub.webp
+        * projetIntegrationPortFolio.webp
+        * projetRCGraphics.webp
+        * projetHomeKey.webp
+        * projet_front_end_mentor_affichage_de_budjet.webp
+        * projet_front_end_mentor_form_contacte.webp
+        * projet_front_end_mentor_page_e-comerce.webp
+        * pokédexe_carousel.webp
+        * projet_oraculus.webp
+        * Tic-Tac-Toe.webp
+    * mocks
+        * apiCarousel.json
+        * apiProjet.json
+        * skills.json
+    * error404.webp
 
+* src
+    * images
+        * image-section-1_num_2.webp
+        * bg_img.webp
+        * logo.webp
