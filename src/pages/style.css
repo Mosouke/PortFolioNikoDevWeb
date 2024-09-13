@@ -531,17 +531,18 @@ section.article-section article {
     gap: 20px;
     justify-content: center;
     align-items: center;
+    padding: 5px;
 }
 
 section.article-section article img {
     width: 100%;
-    height: auto;
+    padding: 5px;
     object-fit: contain;
     border-radius: 15px;
     box-shadow: 0 60px 123px -25px hsla(225, 2%, 62%, .42), 
                 0 35px 75px -35px hsla(225, 2%, 62%, .08);
     filter: blur(0);
-    height: 398px;
+    height: 300px;
     opacity: 1;
     transform: perspective(800px) rotateY(25deg) scale(.8) rotateX(10deg);
     transition: all .6s ease;
@@ -553,13 +554,13 @@ section.article-section article img {
 
 section.article-section article.row-reverse img {
     width: 100%;
-    height: auto;
+    
     object-fit: contain;
     border-radius: 15px;
     box-shadow: 0 60px 123px -25px hsla(225, 2%, 62%, .42), 
                 0 35px 75px -35px hsla(225, 2%, 62%, .08);
     filter: blur(0);
-    height: 398px;
+    height: 300px;
     opacity: 1;
     transform: perspective(800px) rotateY(-25deg) scale(.8) rotateX(10deg);
     transition: all .6s ease;
@@ -699,6 +700,23 @@ section.article-section article.row-reverse div h3 {
     main #presentation img {
         height: 250px;
     }
+
+    section.article-section article {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        gap: 5px;
+    }
+
+    section.article-section article.row-reverse {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        gap: 38px;
+    }
+
+    section.article-section article.row-reverse img {
+        grid-column: 1;
+        grid-row: 1;
+    }
 }
 
 @media screen and (max-width: 925px) {
@@ -722,6 +740,26 @@ section.article-section article.row-reverse div h3 {
 @media screen and (max-width: 818px) {
     footer .social {
         grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    section.article-section article img,
+    section.article-section article.row-reverse img {
+        width: 90%;
+        object-fit: cover;
+    }
+
+    main.projet h1 {
+        font-size: 22px !important;
+    }
+
+    main.projet h3 {
+        font-size: 18px !important;
+    }
+
+    main.projet p {
+        font-size: 16px !important;
     }
 }
 
@@ -777,3 +815,4 @@ section.article-section article.row-reverse div h3 {
         top: 180px;
     }
 }
+
