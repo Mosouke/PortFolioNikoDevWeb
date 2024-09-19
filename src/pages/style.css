@@ -535,7 +535,7 @@ section.article-section article {
 }
 
 section.article-section article img {
-    width: 100%;
+    margin: auto;
     padding: 5px;
     object-fit: contain;
     border-radius: 15px;
@@ -553,7 +553,7 @@ section.article-section article img {
 }
 
 section.article-section article.row-reverse img {
-    width: 100%;
+    margin: auto;
     
     object-fit: contain;
     border-radius: 15px;
