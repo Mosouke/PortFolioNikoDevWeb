@@ -1,84 +1,84 @@
 [
     {
-        "img":"../image_projet/integration_html-css_AKOPretaPorter.webp",
-        "alt":"image projet integration html-css AKOPretaPorter",
-        "title":"AKOPretaPorter",
-        "description":"Projet pour sentrainer à integré un site vitrine en html css simple",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/integration_html-css_AKOPretaPorter.webp",
+        "alt": "image projet intégration HTML-CSS AKOPretaPorter",
+        "title": "AKOPretaPorter",
+        "description": "Projet pour s'entraîner à intégrer un site vitrine en HTML/CSS simple.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
-        "img":"../image_projet/integration_html-css_site_Fylo.webp",
-        "alt":"image projet integration site Fylo",
-        "title":"Site Fylo",
-        "description":"Projet pour sentrainer à integré un site vitrine en html css simple",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/integration_html-css_site_Fylo.webp",
+        "alt": "image projet intégration site Fylo",
+        "title": "Site Fylo",
+        "description": "Projet pour s'entraîner à intégrer un site vitrine en HTML/CSS simple.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
-        "img":"../image_projet/integration_html-css_site_vividly.webp",
-        "alt":"image projet integration site vividly",
-        "title":"Site Vividly",
-        "description":"Projet integration site vitrine en html css simple",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple en mobile first design"
+        "img": "../image_projet/integration_html-css_site_vividly.webp",
+        "alt": "image projet intégration site Vividly",
+        "title": "Site Vividly",
+        "description": "Projet d'intégration d'un site vitrine en HTML/CSS simple.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple en mobile first design."
     },
     {
-        "img":"../image_projet/projetIntegrationPortFolio.webp",
-        "alt":"image projet d'integration en html css d'un port folio fictif ",
-        "title":"Port folio John Doe",
-        "description":"Integration d'un port folio fictif en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site port folio en html css avec plusieur pages fonctionnelles via le menu et des bouton  sur la page d'accueil un formulair de contact qui souvre dans une modale "
+        "img": "../image_projet/projetIntegrationPortFolio.webp",
+        "alt": "image projet d'intégration en HTML/CSS d'un portfolio fictif",
+        "title": "Port folio John Doe",
+        "description": "Intégration d'un portfolio fictif en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site portfolio en HTML/CSS avec plusieurs pages fonctionnelles via le menu et des boutons sur la page d'accueil. Un formulaire de contact qui s'ouvre dans une modale."
     },
     {
-        "img":"../image_projet/projetRCGraphics.webp",
-        "alt":"imgage du site RCGraphics intégrer en html css ",
-        "title":"Site RCGraphics",
-        "description":"Projet d'integration du site d'un graphiste en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/projetRCGraphics.webp",
+        "alt": "image du site RCGraphics intégré en HTML/CSS",
+        "title": "Site RCGraphics",
+        "description": "Projet d'intégration du site d'un graphiste en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
-        "img":"../image_projet/projetHomeKey.webp",
-        "alt":"imgage du site HomeKey intégrer en html css ",
-        "title":"Site HomeKey",
-        "description":"Projet d'integration du site d'un location d'appartements en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple avec pour consigne d'utiliser seulment le flex et non le grid"
+        "img": "../image_projet/projetHomeKey.webp",
+        "alt": "image du site HomeKey intégré en HTML/CSS",
+        "title": "Site HomeKey",
+        "description": "Projet d'intégration du site d'une location d'appartements en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple avec pour consigne d'utiliser seulement Flexbox et non Grid."
     },
     {
-        "img":"../image_projet/integration_html-css_NomadeMaquillage.webp",
-        "alt":"image du site NomadeMaquillage intégrer en html css ",
-        "title":"Site NomadeMaquillage",
-        "description":"Projet d'integration du site d'un maquillage en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/integration_html-css_NomadeMaquillage.webp",
+        "alt": "image du site NomadeMaquillage intégré en HTML/CSS",
+        "title": "Site NomadeMaquillage",
+        "description": "Projet d'intégration du site d'un maquillage en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
-        "img":"../image_projet/integration_html-css_digital.webp",
-        "alt":"image du site Digital intégrer en html css ",
-        "title":"Site Digital",
-        "description":"Projet d'integration du site d'un site de création de contenu en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/integration_html-css_digital.webp",
+        "alt": "image du site Digital intégré en HTML/CSS",
+        "title": "Site Digital",
+        "description": "Projet d'intégration d'un site de création de contenu en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
-        "img":"../image_projet/integration_html-css_deliceSucres.webp",
-        "alt":"image du site DeliceSucres intégrer en html css ",
-        "title":"Site DeliceSucres",
-        "description":"Projet d'integration du site d'un site de vente en html css",
-        "tech":"HTML/CSS",
-        "fonctionnalités":"Site vitrine en html css simple"
+        "img": "../image_projet/integration_html-css_deliceSucres.webp",
+        "alt": "image du site DeliceSucres intégré en HTML/CSS",
+        "title": "Site DeliceSucres",
+        "description": "Projet d'intégration d'un site de vente en HTML/CSS.",
+        "tech": "HTML/CSS",
+        "fonctionnalités": "Site vitrine en HTML/CSS simple."
     },
     {
         "img": "../image_projet/image-projet_Geniarthub.webp",
-        "alt": "image du site Geniarthub  ",
+        "alt": "image du site Geniarthub",
         "title": "Site Geniarthub",
-        "description": "Ajout des fonctionnalités du site en JavaScript pour ce projet qui à aussi été réaliser avec React",
+        "description": "Ajout des fonctionnalités du site en JavaScript pour ce projet qui a aussi été réalisé avec React.",
         "tech": "JavaScript et React",
-        "fonctionnalités": "Page d'accueil : Affichage dynamique des œuvres d'art, récupérées depuis un serveur backend via API.\nPage de détail d'une œuvre : Présentation complète de l'œuvre (titre, description, prix selon format), avec sélection de format et quantité.\nPage panier : Liste des articles dans le panier avec image, format, prix et options de modification. Le total et les quantités se recalculent automatiquement.\nFormulaire de commande : Validation des informations (prénom, nom, adresse, email) en temps réel, avec envoi des données sans rechargement de page.\nPage de confirmation : Affichage du numéro de commande après validation, avec réinitialisation du panier.\nLocalStorage : Gestion des produits et quantités dans le panier sans duplication ni enregistrement du prix pour des raisons de sécurité.\nBackend NodeJS : Gestion des produits et commandes via API, avec validation des informations et envoi des données au serveur."
-    },   
+        "fonctionnalités": "Page d'accueil : affichage dynamique des œuvres d'art récupérées depuis un serveur backend via API. Page de détail d'une œuvre : présentation complète de l'œuvre (titre, description, prix selon format), avec sélection de format et quantité. Page panier : liste des articles dans le panier avec image, format, prix et options de modification. Le total et les quantités se recalculent automatiquement. Formulaire de commande : validation des informations (prénom, nom, adresse, email) en temps réel, avec envoi des données sans rechargement de page. Page de confirmation : affichage du numéro de commande après validation, avec réinitialisation du panier. LocalStorage : gestion des produits et quantités dans le panier sans duplication ni enregistrement du prix pour des raisons de sécurité. Backend NodeJS : gestion des produits et commandes via API, avec validation des informations et envoi des données au serveur."
+    },
     {
         "img": "../image_projet/projet_oraculus.webp",
         "alt": "image du site Horoscope",
@@ -86,45 +86,45 @@
         "description": "Développement des fonctionnalités d'affichage d'horoscope en JavaScript.",
         "tech": "JavaScript",
         "fonctionnalités": "Chargement des données JSON via fetch. Affichage dynamique des informations d'horoscope (signe, date, catégories). Navigation entre les signes avec flèches et clavier. Affichage des signes précédent et suivant, cliquables pour navigation rapide. Mise à jour automatique de la date du jour."
-    }, 
+    },
     {
-        "img":"../image_projet/Tic-Tac-Toe.webp",
-        "alt":"image du jeu Tic-Tac-Toe",
-        "title":"Jeu Tic-Tac-Toe",
-        "description":"Création d'un jeu de Tic-Tac-Toe en version PvP, PvIA mode facile et PvIA mode hardcore",
-        "tech":"HTML/CSS/JavaScript",
-        "fonctionnalités":"Création d'un jeu de Tic-Tac-Toe en version PvP, PvIA mode facile, PvIA mode hardcore et d'un mode IAvIA avec ub bouton lancer la partie et stoper la partie"
-    },   
-    {    
+        "img": "../image_projet/Tic-Tac-Toe.webp",
+        "alt": "image du jeu Tic-Tac-Toe",
+        "title": "Jeu Tic-Tac-Toe",
+        "description": "Création d'un jeu de Tic-Tac-Toe en version PvP, PvIA mode facile et PvIA mode hardcore.",
+        "tech": "HTML/CSS/JavaScript",
+        "fonctionnalités": "Création d'un jeu de Tic-Tac-Toe en version PvP, PvIA mode facile, PvIA mode hardcore, et d'un mode IAvIA avec un bouton pour lancer et stopper la partie."
+    },
+    {
         "img": "../image_projet/projet_fron_end_mentor_page_e-comerce.webp",
         "alt": "image du site E-commerce",
         "title": "Page Produit E-commerce",
-        "description": "Implémentation des fonctionnalités clés pour une page produit d'e-commerce, avec Frontend Mentor",
+        "description": "Implémentation des fonctionnalités clés pour une page produit d'e-commerce, avec Frontend Mentor.",
         "tech": "HTML, CSS, JavaScript, React, Next.js, Styled Components",
-        "fonctionnalités": "Affichage adaptatif en fonction de la taille de l'écran. État au survol des éléments interactifs. Galerie Lightbox pour voir les images du produit en grand. Changement de l'image principale du produit via des miniatures. Ajout d'articles au panier. Consultation et gestion du contenu du panier, y compris la suppression d'articles."   
-    },   
+        "fonctionnalités": "Affichage adaptatif en fonction de la taille de l'écran. État au survol des éléments interactifs. Galerie Lightbox pour voir les images du produit en grand. Changement de l'image principale du produit via des miniatures. Ajout d'articles au panier. Consultation et gestion du contenu du panier, y compris la suppression d'articles."
+    },
     {
         "img": "../image_projet/projet_front_end_mentor_form_contacte.webp",
         "alt": "image du site Formulaire de Contact",
         "title": "Formulaire de Contact",
-        "description": "Implémentation des fonctionnalités d'un formulaire de contact avec validation et accessibilité, avec Frontend Mentor",
+        "description": "Implémentation des fonctionnalités d'un formulaire de contact avec validation et accessibilité, avec Frontend Mentor.",
         "tech": "HTML, CSS, JavaScript",
-        "fonctionnalités": "Affichage d'un message de succès après la soumission réussie du formulaire. Messages de validation pour les champs requis et les adresses email mal formatées. Navigation clavier uniquement pour compléter le formulaire. Annonce des champs, messages d'erreur, et message de succès via le lecteur d'écran. Mise en page optimale en fonction de la taille de l'écran. États au survol et au focus pour tous les éléments interactifs."
-    },   
+        "fonctionnalités": "Affichage d'un message de succès après la soumission réussie du formulaire. Messages de validation pour les champs requis et les adresses email mal formatées. Navigation au clavier uniquement pour compléter le formulaire. Annonce des champs, messages d'erreur et message de succès via le lecteur d'écran. Mise en page optimale en fonction de la taille de l'écran. États au survol et au focus pour tous les éléments interactifs."
+    },
     {
         "img": "../image_projet/projet_front_end_mentor_affichage_de_budjet.webp",
         "alt": "image du composant graphique de dépenses",
         "title": "Composant Graphique de Dépenses",
-        "description": "Implémentation d'un graphique de dépenses interactif avec mise en surbrillance du jour actuel, avec Frontend Mentor",
+        "description": "Implémentation d'un graphique de dépenses interactif avec mise en surbrillance du jour actuel, avec Frontend Mentor.",
         "tech": "HTML, CSS, JavaScript",
-        "fonctionnalités": "Affichage d'un graphique à barres avec des barres individuelles montrant les montants pour chaque jour. Mise en surbrillance de la barre du jour actuel avec une couleur différente. Adaptation de la mise en page en fonction de la taille de l'écran de l'appareil. États au survol pour tous les éléments interactifs. Bonus : Utilisation des données JSON pour ajuster dynamiquement la taille des barres du graphique."
-    },   
+        "fonctionnalités": "Affichage d'un graphique à barres avec des barres individuelles montrant les montants pour chaque jour. Mise en surbrillance de la barre du jour actuel avec une couleur différente. Adaptation de la mise en page en fonction de la taille de l'écran de l'appareil. États au survol pour tous les éléments interactifs. Bonus : utilisation des données JSON pour ajuster dynamiquement la taille des barres du graphique."
+    },
     {
-        "img":"../image_projet/pokédexe_projetl.png",
-        "alt":"image du pokédexe projet",
-        "title":"Projet fin de module Python Pokédexe",
-        "description":"Implémentation d'un jeu de Pokédexe avec Python, avec Frontend Mentor",
-        "tech":"HTML, CSS, Python",
-        "fonctionnalités":"Posiblité d'ajouter un nouveux Pokémon à la liste avec son numero dans la liste, son nom son type et sa capacyté spesiale. Possibilité de cliquer sur le Pokemon pour voir sa info, fonction pour ajouté un nouveu Pokémon ou bien de suprimer le pokémon selectionné "   
+        "img": "../image_projet/pokédexe_projetl.png",
+        "alt": "image du projet Pokédexe",
+        "title": "Projet fin de module Python Pokédexe",
+        "description": "Implémentation d'un jeu de Pokédexe avec Python, avec Frontend Mentor.",
+        "tech": "HTML, CSS, Python",
+        "fonctionnalités": "Possibilité d'ajouter un nouveau Pokémon à la liste avec son numéro, son nom, son type et sa capacité spéciale. Possibilité de cliquer sur le Pokémon pour voir ses informations. Fonction pour ajouter un nouveau Pokémon ou bien supprimer le Pokémon sélectionné."
     }
 ]

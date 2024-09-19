@@ -793,9 +793,16 @@ section.article-section article.row-reverse div h3 {
         font-size: 20px !important;
     }
 
+
+
     main #presentation p {
         font-size: 14px !important;
     }
+
+    footer .social h3{
+        font-size: 26px !important;
+    }
+
 }
 
 @media screen and (max-width: 490px) {
