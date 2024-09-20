@@ -38,7 +38,7 @@ export default function Header() {
 
                 <nav className={menuActive ? 'active' : ''}>
                     <ul>
-                        <li><RouterLink to="/" onClick={closeMenu}>Accueil</RouterLink></li>
+                        <li><ScrollLink to="up" smooth={smooth} duration={duration} onClick={closeMenu}>Accueil</ScrollLink></li>
                         <li><ScrollLink to="competences" smooth={smooth} duration={duration} onClick={closeMenu}>Compétences</ScrollLink></li>
                         <li><ScrollLink to="projet" smooth={smooth} duration={duration} onClick={closeMenu}>Projet</ScrollLink></li>
                         <li><ScrollLink to="footer" smooth={smooth} duration={duration} onClick={closeMenu}>Contact</ScrollLink></li>
