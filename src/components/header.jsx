@@ -34,7 +34,7 @@ export default function Header() {
     return (
         <header>
             <div className="container1440">
-                <RouterLink to="/" ><img src={logo} alt="logo du site Niko Dev Web" /></RouterLink>
+                <RouterLink to="/"><img src={logo} alt="logo du site Niko Dev Web" /></RouterLink>
 
                 <nav className={menuActive ? 'active' : ''}>
                     <ul>

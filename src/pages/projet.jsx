@@ -9,7 +9,7 @@ export default function Projet() {
 
   const fetchData = async () => {
     try {
-      const response = await fetch('/mocks/apiProjet.json'); // Assurez-vous que ce chemin est correct
+      const response = await fetch('/mocks/apiProjet.json');
       if (!response.ok) {
         throw new Error('Failed to fetch projet data');
       }
