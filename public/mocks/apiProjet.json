@@ -120,7 +120,7 @@
         "fonctionnalités": "Affichage d'un graphique à barres avec des barres individuelles montrant les montants pour chaque jour. Mise en surbrillance de la barre du jour actuel avec une couleur différente. Adaptation de la mise en page en fonction de la taille de l'écran de l'appareil. États au survol pour tous les éléments interactifs. Bonus : utilisation des données JSON pour ajuster dynamiquement la taille des barres du graphique."
     },
     {
-        "img": "../image_projet/pokédexe_projetl.png",
+        "img": "../image_projet/pokédexe_projetl.webp",
         "alt": "image du projet Pokédexe",
         "title": "Projet fin de module Python Pokédexe",
         "description": "Implémentation d'un jeu de Pokédexe avec Python, avec Frontend Mentor.",

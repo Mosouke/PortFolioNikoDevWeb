@@ -17,7 +17,7 @@
     },
     {
         "id": 2,
-        "img": "../image_carousel/pokédexe_projetl.png",
+        "img": "../image_carousel/pokédexe_projetl.webp",
         "alt": "image du projet Pokédex réalisé en Python",
         "title": "Pokédex",
         "description": "Création d'un Pokédex avec Python",

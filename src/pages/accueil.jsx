@@ -48,35 +48,35 @@ export default function Accueil() {
         <>
             <Header />
             <main>
-                <section className='presentation'>
-                    <div className='container1440' id='presentation'>
+                <section className="presentation">
+                    <div className="container1440" id="presentation">
                         <div>
-                            <h1><span>Salut le Monde ! Moi c'est</span> Niko Dev Web</h1>
-                            <h2><span>Développeur Web</span> en formation. Je me forme pour aider les startups à <span>Créer</span> et <span>Améliorer </span>leurs produits.</h2>
-                            <p>Je suis un développeur web en reconversion professionnelle avec une solide formation en développement. Actuellement en cours de formation, je développe des compétences variées pour créer et optimiser des sites web. Reconnu pour ma capacité à ne rien lâcher et à m'adapter aux nouvelles technologies, je m'efforce d'apporter des solutions efficaces et innovantes tout en respectant les délais et les objectifs du projet.</p>
+                            <h1><span>Salut le Monde ! Moi c'est</span> Niko, Développeur Web</h1>
+                            <h2><span>Développeur Web</span> en formation. Je me forme pour aider les startups à <span>créer</span> et <span>améliorer</span> leurs produits.</h2>
+                            <p>Je suis un développeur web en reconversion professionnelle, avec une solide formation en développement. Actuellement en cours de formation, je développe des compétences variées pour créer et optimiser des sites web. Reconnu pour ma persévérance et mon adaptabilité aux nouvelles technologies, je m'efforce d'apporter des solutions efficaces et innovantes tout en respectant les délais et les objectifs des projets.</p>
                         </div>
-                        <img src={Img} alt="image de la section de présentation" />
+                        <img src={Img} alt="Image de la section de présentation" />
                     </div>
-                    <span id='competences'></span>
+                    <span id="competences"></span>
                 </section>
-                
-                <section className='competences'>
-                    <div className='title'>
-                        <h2><span>Language</span> de <span>Programmation</span></h2>
+    
+                <section className="competences">
+                    <div className="title">
+                        <h2><span>Langages</span> de <span>Programmation</span></h2>
                     </div>
                     <Skills skillsData={skillsData} />
                 </section>
-                
-                <section className='projet'>
-                    <div className='title'>
-                        <h2><span>Projets réalisés </span>en <span>Formation</span></h2>
+    
+                <section className="projet">
+                    <div className="title">
+                        <h2><span>Projets réalisés</span> en <span>formation</span></h2>
                     </div>
-                    <Carousel carouselData={carouselData} /> 
-                    <Link to="/projet">Détails de tout les projets</Link >
+                    <Carousel carouselData={carouselData} />
+                    <Link to="/projet">Détails de tous les projets</Link>
                 </section>
-                
-                <section className='citation'>
-                    <div id='citation'>
+    
+                <section className="citation">
+                    <div id="citation">
                         <i className="fa-solid fa-quote-left"></i>
                         <h2>A website is never really finished, it's just waiting for the next iteration.</h2>
                         <i className="fa-solid fa-quote-right"></i>
@@ -86,4 +86,4 @@ export default function Accueil() {
             <Footer />
         </>
     );
-}
+}    

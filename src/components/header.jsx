@@ -31,6 +31,18 @@ export default function Header() {
         };
     }, []);
 
+    const accueilLink = () => { 
+        if (window.location.pathname === "/") {
+            return (
+                <ScrollLink to="up" smooth={smooth} duration={duration} onClick={closeMenu}>Accueil</ScrollLink>
+         );
+        } else {
+            return (
+                <RouterLink to = "/">Accueil</RouterLink>
+            )
+        }
+    }
+
     return (
         <header>
             <div className="container1440">
@@ -38,7 +50,7 @@ export default function Header() {
 
                 <nav className={menuActive ? 'active' : ''}>
                     <ul>
-                        <li><ScrollLink to="up" smooth={smooth} duration={duration} onClick={closeMenu}>Accueil</ScrollLink></li>
+                        <li>{accueilLink()}</li>
                         <li><ScrollLink to="competences" smooth={smooth} duration={duration} onClick={closeMenu}>Compétences</ScrollLink></li>
                         <li><ScrollLink to="projet" smooth={smooth} duration={duration} onClick={closeMenu}>Projet</ScrollLink></li>
                         <li><ScrollLink to="footer" smooth={smooth} duration={duration} onClick={closeMenu}>Contact</ScrollLink></li>
